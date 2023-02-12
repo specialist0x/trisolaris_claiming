@@ -59,9 +59,9 @@ export default function ClaimVestingContract({ address }: Props) {
 
   return (
     <div style={{ margin: "20px" }}>
-      Vesting Contract: {address}
       {result?.isSuccess && (
         <div>
+          <h2>Vesting Contract: {address}</h2>
           <div>lastUpdate: {parseDate(lastUpdate)}</div>
           <div>vestingEnd: {parseDate(vestingEnd)}</div>
           <div>vestingAmount: {parseAmount(vestingAmount)}</div>
