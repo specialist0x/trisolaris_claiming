@@ -6,8 +6,8 @@ import {
   useContractWrite,
   usePrepareContractWrite,
 } from "wagmi";
-import { ABI } from "./contracts/vester";
-import { erc20Balance } from "./contracts/erc20Balance";
+import { ABI } from "../contracts/vester";
+import { erc20Balance } from "../contracts/erc20Balance";
 
 type Props = {
   address: Address;
