@@ -1,3 +1,7 @@
+I made this app to make life a bit easier. I take no responsibility for this app.  ⚠️ Use at your own risk.
+
+-------
+
 This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit).
 
 ## Getting Started
